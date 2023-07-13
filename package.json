@@ -1,0 +1,18 @@
+{
+  "name": "@banno/basic-plugin-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Example application for running your first plugin",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.17.3",
+    "node-fetch": "^2.6.7"
+  }
+}
